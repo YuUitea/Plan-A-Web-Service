@@ -1,4 +1,4 @@
-package com.yuyat.planatodo;
+package com.yuyat.plana.todo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

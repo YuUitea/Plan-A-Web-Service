@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.yuyat.plan-a-todo' is invalid and this project uses 'com.yuyat.planatodo' instead.
+* The original package name 'com.yuyat.plan-a-todo' is invalid and this project uses 'com.yuyat.plana.todo' instead.
 
 # Getting Started
 
